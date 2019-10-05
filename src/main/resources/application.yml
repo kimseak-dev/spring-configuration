@@ -1,0 +1,14 @@
+
+
+my.name: Vandy
+my.age: 12
+my.number: ${random.int}
+my.uuid : ${random.uuid}
+my.max: ${random.int(10)}
+mg.value: ${random.value}
+my.greeting: hi,i'm  ${my.name}
+
+spring.profiles.active: pro
+
+
+
